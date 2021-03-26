@@ -32,7 +32,7 @@ This project was developed using the following tecnologies:
 ## 💻 Projeto/Project
 
 Esse projeto é um site/sistema para nutricionistas feito durante o curso de Javascript da Alura. O projeto usa conceitos como DOM Manipulation e AJAX. </br>
-This project is web system for nutricionist made during the Javascript course at Alura. The project uses concepts such as DOM Manipulation and AJAX.
+This project isa  web system for nutricionists made during the Javascript course at Alura. The project uses concepts such as DOM Manipulation and AJAX.
 
 ## :memo: Licença/License
 
