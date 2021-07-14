@@ -16,10 +16,6 @@
 
 <br>
 
-<img src="https://i.imgur.com/q1ebiDM.png"/>
-<img src="https://i.imgur.com/870Kww0.png"/>
-<img src="https://i.imgur.com/Qec6gVX.png"/>
-
 ## 🚀 Tecnologias/Tecnologies
 
 Esse projeto foi desenvolvido com as seguintes tecnologias: </br>
